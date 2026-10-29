@@ -7,6 +7,7 @@
 - [airtable-to-google-sheets](https://github.com/viewcourier/airtable-to-google-sheets) - Google Apps Script that syncs an Airtable table or view into a Google Sheet.
 - [airtable-backup](https://github.com/viewcourier/airtable-backup) - Node.js CLI that backs up an Airtable base to CSV files plus a schema JSON.
 - [airtable-attachments-downloader](https://github.com/viewcourier/airtable-attachments-downloader) - Python CLI that downloads every attachment from an Airtable base or table.
+- [airtable-view-to-email-csv](https://github.com/viewcourier/airtable-view-to-email-csv) - Google Apps Script that emails an Airtable view as a CSV attachment on a daily or weekly schedule.
 
 ## Free tools
 
